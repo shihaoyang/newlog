@@ -3,7 +3,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" import="com.newlog.*,
 java.io.*,java.net.*,java.sql.*,java.lang.*,java.util.*" pageEncoding="UTF-8"%>
 
+
+
+
 <% 
+
+
 
 String username = request.getParameter("username");
 String password = request.getParameter("password");
